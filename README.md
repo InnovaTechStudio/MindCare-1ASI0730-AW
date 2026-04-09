@@ -330,10 +330,16 @@ How (¿Cómo?)
 <p align="justify"> El impacto de esta problemática se refleja en la pérdida de tiempo, errores en la gestión, baja productividad y disminución de la confianza del cliente. Además, la falta de transparencia y seguimiento genera insatisfacción en los usuarios, afectando la reputación del taller. <br><br> Según diversas fuentes, la implementación de sistemas de gestión contribuye significativamente a mejorar la satisfacción del cliente, al proporcionar mayor claridad, seguimiento y control del servicio (Quora, 2023). </p>
 
 #### 1.2.2 Lean UX Process
-
+<p align="justify">
+El Lean UX Process permite definir y validar la solución propuesta a partir de la comprensión del problema y las necesidades del usuario. Este enfoque se basa en la formulación de hipótesis, identificación de segmentos y análisis de valor, con el objetivo de diseñar una solución centrada en el usuario.
+</p>
 ##### 1.2.2.1. Lean UX Problem Statements
+<p align="justify">
+Dado que muchos talleres automotrices, especialmente mecánicos independientes y PYMES, gestionan sus procesos de manera manual o con herramientas no especializadas, los usuarios enfrentan problemas de desorganización, falta de control en las órdenes de trabajo y ausencia de historial estructurado de clientes y vehículos, lo que genera ineficiencia operativa, errores en la gestión y desconfianza por parte de los clientes. 
 
-*Pendiente*
+Entonces, se necesita una plataforma web que permita centralizar la información, gestionar de manera eficiente los servicios automotrices y brindar transparencia en el seguimiento de los trabajos realizados, mejorando así la organización interna del taller y la experiencia del cliente.
+</p>
+
 
 ##### 1.2.2.2. Lean UX Assumptions
 
