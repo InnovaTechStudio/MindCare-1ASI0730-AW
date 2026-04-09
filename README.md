@@ -456,7 +456,7 @@ Lo sabremos cuando veamos un incremento en el uso del sistema y una mejora en la
 ##### 1.2.2.4. Lean UX Canvas
 
 <p align="center">
-       <th style="text-align: center;"><img src="assets/competitors-logo/LeanUX.jpg" alt="LeanUX 1" style="width: 150px;"></th>
+  <img src="assets/competitors-logo/LeanUX.jpg" alt="LeanUX Canvas" width="700">
 </p>
 
 ### 1.3. Segmentos objetivo
