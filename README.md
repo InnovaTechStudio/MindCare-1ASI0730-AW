@@ -1010,13 +1010,13 @@ Características:
   Para la estructura del frontend se empleará HTML5 semántico, que prioriza la correcta organización del contenido y la accesibilidad.
 
   Las principales convenciones adoptadas son:
-  - Uso de etiquetas semánticas como <header>, <nav>, <main>, <section>, <article> y <footer> para mejorar la estructura lógica del documento.
+  - Uso de etiquetas semánticas como &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;section&gt;, &lt;article&gt; y &lt;footer&gt; para mejorar la estructura lógica del documento.
   - Nombres de etiquetas y atributos escritos exclusivamente en minúsculas.
   - Cierre correcto de todas las etiquetas HTML.
   - Inclusión obligatoria del atributo alt en imágenes para mejorar la accesibilidad.
   - Uso de atributos width y height en imágenes cuando corresponde, para optimizar la carga visual.
-  - Definición del atributo land="en" en la etiqueta <html>.
-  - Inclusión de metadatos esenciales como <title> y <meta name=descripcion">.
+  - Definición del atributo lang="en" en la etiqueta &lt;html&gt;.
+  - Inclusión de metadatos esenciales como &lt;title&gt; y &lt;meta name="descripcion"&gt;.
   - Evitar el uso innecesario de estilos o scripts inline.
 
   Ejemplo:
