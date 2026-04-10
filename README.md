@@ -1024,6 +1024,30 @@ Características:
       <img src="banner.jpg" alt="Main promotional banner" width="1200" height="600">
   </section>
   ```
+
+**CSS Conventions**
+  Para la hoja de estilos se seguirá una estructura modular y escalable, enfocada en la reutilización de componentes.
+  Las convenciones establecidas son:
+  - Uso de nomenclatura kebab-case para clases CSS.
+  - Aplicación de la metodología BEM (Block Element Modifier) para mejorar la organización visual y funcional de estilos.
+  - Uso de nombres descriptivos y significativos.
+  - Declaraciones ordenadas de forma lógica: layout, box model, tipografía y visual.
+  - Uso preferente de unidades relativas como rem, % y vh/vw.
+  - Omisión de unidades en valores cero.
+  - Implementación de diseño responsive con enfoque mobile-first.
+  - Uso de variables CSS definidas en :root.
+
+  ``` CSS
+  :root{
+      --primary-color: #2563eb;
+      --secondary-color: #64748b;
+  }
+
+  .main-header{
+      padding: 1rem;
+      background-color: var(--primary-color);
+  }
+  ```
 </p>
 #### 5.1.4. Software Deployment Configuration
 [Pendiente]
