@@ -1006,6 +1006,7 @@ Características:
   Asimismo, se adoptan buenas prácticas basadas en guías reconocidad como Google Style Guides, MDN JavaScript, MDN JavaScript Guidelines, Microsoft C# Coding Conventions y lineamientos estándar de accesibilidad y legibilidad.
 
   **HTML Conventions**
+  
   Para la estructura del frontend se empleará HTML5 semántico, que prioriza la correcta organización del contenido y la accesibilidad.
 
   Las principales convenciones adoptadas son:
@@ -1026,6 +1027,7 @@ Características:
   ```
 
 **CSS Conventions**
+
   Para la hoja de estilos se seguirá una estructura modular y escalable, enfocada en la reutilización de componentes.
   Las convenciones establecidas son:
   - Uso de nomenclatura kebab-case para clases CSS.
@@ -1050,6 +1052,7 @@ Características:
   ```
 
 **JavaScript Conventions**
+
 Para la lógica del lado del cliente se adoptarán lineamientos orientados a la claridad, reutilización y mantenimiento del código.
 Se aplicarán las siguientes convenciones:
 - Uso de camelCase para variable y funciones.
@@ -1069,6 +1072,7 @@ function validateForm(){
 ```
 
 **C# Conventions**
+
 Para el desarrollo backend y lógica de negocio en C#, se seguiránlas convenciones recomendadas por Microsoft.
 Estas incluyen:
 - Uso de PascalCase para clases, métodos y propiedades.
@@ -1091,6 +1095,7 @@ public class UserService
 ```
 
 **Gherkin Conventions**
+
 Para la definición de criterios de aceptación y pruebas funcionales se utilizará el lenguaje Gherkin, que sigue una estructura orientada al negocio.
 Las convenciones definidas son:
 - Uso obligatorio de la estructura Given-When-Then
@@ -1107,6 +1112,14 @@ Scenario: Sucessful login
     When the user enters valid credential
     Then the system should redirect to the dashboard
 ```
+**Coding Principles Adopted**
+
+De manera transversal, el equipo aplicará los siguientes principios:
+- Readbility First: Código fácil de leer y entender.
+- Consistency: Mantener el mismo estilo en toda la solución.
+- Modularity: Separación clara de responsabilidades.
+- Scalability: Estructura preparada para crecimiento futuro.
+- Maintainability: Facilidad para futuras modificaciones.
 </p>
 
 #### 5.1.4. Software Deployment Configuration
