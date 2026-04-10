@@ -998,7 +998,7 @@ Características:
 </p>
 
 #### 5.1.3. Source Code Style Guide & Conventions
-<p>
+<p aling="justify">
   Con el onejtivo de asegurar la calidad, mantenibilidad y escalabilidad de la solución propuesta, se ha definido un conjunto de lineamientos de estilo y convenciones de codificación aplicables a todos los lenguajes utilizados en el proyecto, específicamente HTML, CSS, JavaScript y C#.
   
   Como criterio general, todo el código fuente, que incluye nombres de variables, clases, archivos, comentarios técnicos y documentación interna, será redactado en idioma inglés, con el fin de mantener uniformidad y alienarse con estándares internacionales de desarrollo de software.
@@ -1067,7 +1067,30 @@ function validateForm(){
   return true;
 }
 ```
+
+**C# Conventions**
+Para el desarrollo backend y lógica de negocio en C#, se seguiránlas convenciones recomendadas por Microsoft.
+Estas incluyen:
+- Uso de PascalCase para clases, métodos y propiedades.
+- Uso de camelCase para variables locales y parámetros.
+- Métodos con nombres descriptivos orientados a verbos.
+- Aplicación del principio de Single Responsibility Principle (SRP).
+- Mantener longitud de línea razonable para facilitar lectura.
+- Comentarios claros y breves en métodos críticos.
+- Organización del código por capas: controllers, services, repositories y models.
+  
+Ejemplo:
+``` C#
+public class UserService
+{
+    public bool ValidateCredentials(string userEmail, string password)
+    {
+        return true;
+    }
+}
+```
 </p>
+
 #### 5.1.4. Software Deployment Configuration
 [Pendiente]
 
