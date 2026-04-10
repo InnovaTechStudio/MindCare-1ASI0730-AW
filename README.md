@@ -998,8 +998,33 @@ Características:
 </p>
 
 #### 5.1.3. Source Code Style Guide & Conventions
-[Pendiente]
+<p>
+  Con el onejtivo de asegurar la calidad, mantenibilidad y escalabilidad de la solución propuesta, se ha definido un conjunto de lineamientos de estilo y convenciones de codificación aplicables a todos los lenguajes utilizados en el proyecto, específicamente HTML, CSS, JavaScript y C#.
+  
+  Como criterio general, todo el código fuente, que incluye nombres de variables, clases, archivos, comentarios técnicos y documentación interna, será redactado en idioma inglés, con el fin de mantener uniformidad y alienarse con estándares internacionales de desarrollo de software.
+  
+  Asimismo, se adoptan buenas prácticas basadas en guías reconocidad como Google Style Guides, MDN JavaScript, MDN JavaScript Guidelines, Microsoft C# Coding Conventions y lineamientos estándar de accesibilidad y legibilidad.
 
+  **HTML Conventions**
+  Para la estructura del frontend se empleará HTML5 semántico, que prioriza la correcta organización del contenido y la accesibilidad.
+
+  Las principales convenciones adoptadas son:
+  - Uso de etiquetas semánticas como <header>, <nav>, <main>, <section>, <article> y <footer> para mejorar la estructura lógica del documento.
+  - Nombres de etiquetas y atributos escritos exclusivamente en minúsculas.
+  - Cierre correcto de todas las etiquetas HTML.
+  - Inclusión obligatoria del atributo alt en imágenes para mejorar la accesibilidad.
+  - Uso de atributos width y height en imágenes cuando corresponde, para optimizar la carga visual.
+  - Definición del atributo land="en" en la etiqueta <html>.
+  - Inclusión de metadatos esenciales como <title> y <meta name=descripcion">.
+  - Evitar el uso innecesario de estilos o scripts inline.
+
+  Ejemplo:
+  ``` HTML
+  <section class="hero-banner">
+      <img src="banner.jpg" alt="Main promotional banner" width="1200" height="600">
+  </section>
+  ```
+</p>
 #### 5.1.4. Software Deployment Configuration
 [Pendiente]
 
