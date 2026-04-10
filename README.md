@@ -911,6 +911,10 @@ Características:
 ### 5.1. Software Configuration Management
 
 #### 5.1.1. Software Development Environment Configuration
+<p align="justify">
+  La siguiente tabla presenta las herramientas, plataformas y guías empleadas para la configuración del entorno de desarrollo del software, que detalla su       finalidad dentro del proyecto y el medio de acceso correspondiente.
+</p>
+
 <table>
   <thead>
     <tr>
