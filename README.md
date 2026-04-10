@@ -977,7 +977,25 @@ Características:
 </table>
 
 #### 5.1.2. Source Code Management
-[Pendiente]
+<p align="justify">
+  Para la gestión y control de versiones del proyecto, se emepleó GitHub como plataforma principal de almacenamiento y seguimiento de cambios del código fuente. Esta herramienta permite mantener un registro ordenado de las modificaciones realizadas, así como facilitar el trabajo colaborativo.
+
+  En la etapa actual del proyecto, se ha optado por implementar un flujo de trabajo simplificado basado en una única rama principal (main), sobre la cual se integran directamente los avances del proyecto. Esta decisión responde al alcance actual del sistema, al tamaño del equipo de trabajo y a la necesidad de mantener un proceso de desarrollo ágil y centralizado.
+
+  La rama main contiene la versión más reciente y funcional del sistema, que constituye la referencia principal para el desarrollo colaborativo. Asimismo, los integrantes del equipo coordinan previamente la integración de cambios con la finalidad de minimizar conflictos y garantizar la consistencia del códgio fuente.
+
+  Adicionalmente, con el propósito de mantener la trazabilidad y claridad en el historial de cambios, se ha adoptado la convención Conventional Commits, la cual estandariza la estructura de los mensajes de confirmación (commits). Esta practica facilita la identificación de nuevas funcionalidades, correcciones de errores y actualizaciones en la documentación.
+
+  A continuación, ses presentan algunos ejemplos de la nomenclatura empleada:
+  - **feat** : Para la incorporación de nuevas funcionalidades.
+  - **fix**: Para la corrección de errores.
+  - **docs**: Para modificaciones en la documentación.
+  - **refactor**: Para mejoras en la estructura interna del código sin alterar su funcionalidad.
+  
+  Por otra parte, el proyecto considera el uso versionado semántico (Semantic Versioning) bajo el esquema MAJOR.MINOR.PATCH, lo que permite clasificar de manera ordenada la evolución de las versiones del sistema según la magnitud de los cambios realizados.
+
+  Finalmente, se contempla que, en futuras iteraciones del proyecto o ante un incremento en su complejidad, el flujo de trabajo puede evolucionar hacia un modelo más estructurado, como Git Flow, que incorpora ramas específicas como develop y feature, con el objetivo de optimizar la gestión del desarrollo, las pruebas y la integración continua.
+</p>
 
 #### 5.1.3. Source Code Style Guide & Conventions
 [Pendiente]
