@@ -14,7 +14,7 @@ Facultad de Ingenería, Carrera de Ingeniería de Software<br>
 **Profesor:** Alex Humberto Sánchez Ponce<br>
 
 **Nombre del startup:** InnovaTech<br>
-**Nombre del producto:** MindCare<br>
+**Nombre del producto:** AutoService<br>
 Abril, 2026
 
 #### Relación de integrantes <!-- omit in toc -->
@@ -268,7 +268,7 @@ Abril, 2026
       <tr>
         <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle; text-align: left;">
           <strong>Luis Miranda, Diego Andres</strong><br><br>
-          <i>Estoy cursando el quinto ciclo de mi carrera. A lo largo de mi experiencia aprendí muchas cosas como ser una persona proactiva, perseverante y responsable. Mediante mi conocimiento sé que puedo aportar más de mis capacidades para presentar un buen proyecto en equipo.</i><br>
+          <i>Estoy cursando el quinto ciclo de mi carrera. A lo largo de mi experiencia aprendí muchas cosas como ser una persona proactiva, perseverante y responsable. Tengo conocimientos programando en diferentes leguajes C++, python, JS, CSS, HTML, SQL. En la parte de frontend me gusta diseñar para entregar un producto atractivo. Mediante mi conocimiento sé que puedo aportar más de mis capacidades para presentar un buen proyecto en equipo.</i><br>
         </td>
         <td style="padding: 10px; border: 1px solid #ddd; text-align: center; vertical-align: middle;">
           <img src="assets/profiles/diego.png" alt="Diego Luis" width="150" style="border-radius: 10px; border: 1px solid #ccc;">
