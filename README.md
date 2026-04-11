@@ -1040,7 +1040,7 @@ Se busca transformar esta percepción mediante transparencia y comunicación.</p
 
 #### 2.3.1. User Personas
 
-<img src="assets/user-person/us-tm.png" alt="tcm">
+<img src="assets/user-person/us-tm.png" alt="tm">
 
 #### 2.3.2. User Task Matrix
 
